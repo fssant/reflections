@@ -1,0 +1,14 @@
+1.What happen when you start a repository? why do you need to do this?
+This creates a subdiretory called .git that contains all necessary git files. I need to do this to create a new repository.
+2.what make git stage different than work directory and repository?
+the staging area permits me to group what files have the same logical change and gives it 1 only commit for multiple files
+3.How can you use staging area to help you do one commit per logical change?
+I can use diff stage to compare my staging area and the last commit in the repository.
+4.What situations branchs will be helpfull to maintain your historic organized?
+I can use branchs to separe my project into different kind of versions, i can separe a test branch only for tests, and make other version of my project, it maintain my repository organized.
+5.How diagrams help you to view the branchs structure?
+Diagrams show me cleary the branchs and the sequence of commits and the relationship between then
+6.What is result of merge two branches? Why do we represent on diagram this way?
+The result of merge two branches is one branch with both changes, we represent this way because both branches commits are still there and we can access them.
+7.What are pros and cos of git always make manually merges?
+manually merges prevent wrong solutions when we have a conflict between two versions of a file.
