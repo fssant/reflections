@@ -1,2 +1,4 @@
-When whould you want to create a remote repository rather than keeping all you work local?
+1.When whould you want to create a remote repository rather than keeping all you work local?
 Its a good idea to maintain the project safe and to work with others contributors.
+2.Why do you prefer manually pulls instead let git update remoto automatically? 
+I can choose when i want to update my workspace files instead git decide it to me.
