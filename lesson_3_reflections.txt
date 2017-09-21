@@ -2,3 +2,7 @@
 Its a good idea to maintain the project safe and to work with others contributors.
 2.Why do you prefer manually pulls instead let git update remoto automatically? 
 I can choose when i want to update my workspace files instead git decide it to me.
+3.Describe differences between forks, branchs and clones. When you have to use each of them.
+A fork is a copy of a repository on GitHub, you use it when you don't have access to the original repository.
+Clone is a copy of repository in your machine or in GitHub, use it to collaborating.
+Branches are leafs on the master branch. Those can be seen as a side track in which you can change code without changing the master branch. Use this for creating new features/bug fixes.
